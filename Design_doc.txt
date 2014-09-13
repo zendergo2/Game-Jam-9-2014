@@ -1,0 +1,18 @@
+
+Summary
+-------
+The main character starts as a completely black character. This character starts in a simple platform level. The goal of the level is to get the colorful version of yourself at the other side of the map. Each time you "get" the objective, you start the level over. The level gets harder each time you restart, but it also gets more colorful. You get more colorful and the objective gets less colorful also.
+
+At the end of each level, a person outside of the player's mind is trying to talk to him/her. The player doesn't respond until the end of the game.
+
+Gameplay
+--------
+2d sidescolling platformer. Zoomed in on the player so that the whole map cannot be seen. Platforms, spikes, and a couple types of people are the only obstacles in the game.
+
+Mindset
+-------
+The player is socially isolated because the antisocial tendencies of the player's mind have the most power to affect his actions. His true self is trying to take that power, and the interactions with people-obstacles become more involved to show that.
+
+Notes
+-----
+ * On harder levels, platforms that are out of sight of the camera could be reached by NPCs that can throw you really far.
